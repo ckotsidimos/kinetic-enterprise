@@ -11,3 +11,6 @@ It is not a transformation playbook.
 It is a doctrine.
 
 Current version: v2.1
+
+## Releases
+- Chapter 00 — Why Speed Breaks Enterprises (v0.1): https://github.com/ckotsidimos/kinetic-enterprise/releases/tag/chapter-00-v0.1
