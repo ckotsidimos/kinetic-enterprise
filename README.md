@@ -10,6 +10,8 @@ It is not a methodology.
 It is not a transformation playbook.
 It is a doctrine.
 
+Concepts may be referenced with attribution; reuse or commercial application without permission is not permitted.
+
 Current version: v2.1
 
 ## Releases
