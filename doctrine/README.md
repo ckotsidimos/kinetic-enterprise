@@ -1,41 +1,72 @@
 # Kinetic Enterprise — Operating Doctrine
 
-This folder contains the **core doctrines** underlying  
+This folder contains the **core operating doctrines** of  
 **THE KINETIC ENTERPRISE — A CTO Doctrine for the Cognitive Economy**.
 
-These are **conceptual frameworks**, not implementation guides.
+These documents define the **structural logic** by which modern organizations
+absorb change under speed and uncertainty.
 
-They describe *how modern organizations absorb change*,  
-not how to run tools, teams, or projects.
+They are **doctrinal statements**, not implementation guidance.
+
+They describe **how enterprises maneuver**,  
+not how teams execute, tools are deployed, or projects are run.
+
+---
+
+## What Lives Here
+
+This folder contains the **irreducible concepts** of the doctrine:
+the ideas that do not change with tooling, vendors, or organizational fashion.
+
+They exist to explain:
+- how change is absorbed structurally
+- how authority operates under speed
+- how adaptation becomes continuous rather than episodic
 
 ---
 
 ## Included Doctrines
 
-### 1. The Capability Maneuver Loop
-A continuous model for enterprise adaptation that replaces
-projects, transformation programs, and episodic change.
+### The Capability Maneuver Loop
 
-- Focus: Capability over delivery
-- Mode: Continuous maneuver, not execution
-- Target: Legacy operating models
+A continuous model for enterprise adaptation that replaces:
+- transformation programs
+- project-centric change
+- episodic operating resets
 
-📄 [`capability-maneuver-loop.md`](./capability-maneuver-loop.md)
+**Focus:** Capability, not delivery  
+**Mode:** Continuous maneuver, not execution cycles  
+**Target:** Legacy operating models optimized for stability
+
+📄 [`capability-maneuver-loop.md`](/model/maneuver/capability-maneuver-loop.md)
 
 ---
 
-## Scope & Intent
+## Scope and Boundaries
 
 These doctrines:
-- Complement DevOps, Project-to-Product, and modern SDLC practices
-- Target **legacy governance, funding, and organizational physics**
-- Are designed for executives, architects, and CTOs
 
-They are **not**:
-- Agile frameworks
-- Consulting playbooks
-- Maturity models
-- Tooling recommendations
+- Target **organizational physics**, not team practices  
+- Address **governance, funding, authority, and structure**  
+- Complement (but do not replace) DevOps, Product, and SDLC practices  
+- Are written for executives, CTOs, architects, and system leaders  
+
+They are explicitly **not**:
+
+- Agile or DevOps frameworks  
+- Consulting playbooks  
+- Maturity models  
+- Operating manuals  
+- Tool or vendor guidance  
+
+---
+
+## Canonical Role
+
+The contents of this folder are **canonical**.
+
+They change slowly, deliberately, and only when the doctrine itself evolves.
+Extensions, examples, and applications belong elsewhere.
 
 ---
 
@@ -43,7 +74,7 @@ They are **not**:
 
 Author: Christos Kotsidimos  
 Work: *THE KINETIC ENTERPRISE*  
-License: MIT (Conceptual Attribution Preserved)
+License: MIT (conceptual attribution preserved)
 
-These doctrines are shared openly to advance thinking on
-organizational speed, adaptability, and cognitive economics.
+These doctrines are published openly to advance serious thinking on
+organizational speed, adaptability, and the economics of cognition.
