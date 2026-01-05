@@ -4,7 +4,7 @@
 
 **Author:** Christos Kotsidimos
 
-**Focus:** Dismantling the 1913 Factory in the Tier-1 Global Enterprise.
+**Focus:** Dismantling the 1913 Factory in the Modern Enterprise.
 
 
 ## The Central Thesis
