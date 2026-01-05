@@ -17,6 +17,9 @@ The result is not innovation. It is **Automated Friction.**
 
 This repository contains the doctrinal material and architectural patterns required to shift from the **Static Factory** to the **Kinetic Enterprise.**
 
+## Core Concept
+
+![Alt text](kinetic-enterprise-operating-doctrine-v2.1.png)
 
 ## Core Principles
 
