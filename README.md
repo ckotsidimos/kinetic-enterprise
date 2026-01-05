@@ -1,6 +1,6 @@
 # The Kinetic Enterprise: A Doctrine of Structural Physics
 
-**Status:** Laboratory Archive (v2.1)
+**Status:** Laboratory Archive (v1.0)
 
 **Author:** Christos Kotsidimos
 
