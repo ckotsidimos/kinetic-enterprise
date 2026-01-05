@@ -42,7 +42,7 @@ This is not a methodology. It is not a "Transformation Playbook" for consultants
 
 ## Target Audience
 
-This material is architected for **Group CTOs, CIOs, and Board-adjacent leaders** operating inside software-heavy organizations (FTSE 100 / Global 500).
+This material is architected for **Group CTOs, CIOs, and Board-adjacent leaders** operating inside software-heavy organizations/modern enterprises.
 
 If you are looking for a "Cloud Migration" checklist or an "Agile" tutorial, you are in the wrong place. This work is for those with the mandate to redesign the engine, not just polish the chassis.
 
