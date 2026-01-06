@@ -31,6 +31,9 @@ This repository contains the doctrinal material and architectural patterns requi
 
 4. **Unit Economics of Flow:** Technology is not an expense; it is a mechanical lever for margin recovery. Every architectural decision is a financial decision.
 
+## Visual Representation
+
+![Alt text](/assets/figures/Enterprise_In_Motion.png)
 
 ## What is in this Laboratory?
 
